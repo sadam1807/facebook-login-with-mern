@@ -1,2 +1,2 @@
-# social-login-with-mern
-This reposirory will contain implementaion of all types of social login such as facebook , google, linkedIn etc.
+# facebook-login-with-mern
+This reposirory will contain implementaion of facebook sigin using MERN.
